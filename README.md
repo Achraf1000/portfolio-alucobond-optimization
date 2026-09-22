@@ -2,7 +2,7 @@
 
 Public portfolio presentation of a full-stack application that optimizes composite-panel cutting plans and supports project, supplier and reusable-stock workflows.
 
-> This repository contains documentation and anonymized screenshots only. The optimization implementation, professional source code, customer data and generated manufacturing documents remain private.
+> This repository contains documentation and static screenshots approved for public portfolio presentation. The optimization implementation, professional source code, customer data and generated manufacturing documents remain private.
 
 ## Project overview
 
@@ -44,13 +44,17 @@ See [docs/architecture.md](docs/architecture.md) for the sanitized technical ove
 
 ## Screenshots
 
-Add anonymized screenshots to `docs/screenshots/`:
+### Optimization workspace
 
-- `optimization-form.png`
-- `cutting-plan.png`
-- `stock-management.png`
+![Optimization workspace](docs/screenshots/optimization-workspace.png)
 
-Use fictional project names, customers, references, dimensions, quantities and prices. Remove company logos, order identifiers and generated document metadata.
+### Generated cutting plan
+
+![Generated cutting plan](docs/screenshots/cutting-plan.png)
+
+### Panel summary
+
+![Panel summary](docs/screenshots/cutting-plan-summary.png)
 
 ## My contribution
 
@@ -66,7 +70,7 @@ Use fictional project names, customers, references, dimensions, quantities and p
 
 ## Confidentiality
 
-No internal algorithm implementation, source file, customer record, price, order, project identifier, database information or manufacturing document is included.
+No internal algorithm implementation, source file, customer record, price, order, database information or manufacturing document is included. The published images are static interface captures approved for portfolio use.
 
 ## License
 
